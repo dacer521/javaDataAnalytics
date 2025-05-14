@@ -1,0 +1,1 @@
+This is a program I made in class to practice java file reading, and to gain experience in data analysis. In this project, I took a CSV file with data on every pokemon (generations 1-9) and found the most common primary typing, dual typing, average Base Stat Total (BST) and median BST.
